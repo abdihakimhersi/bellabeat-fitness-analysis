@@ -31,7 +31,7 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 
 #### 3. Device Usage Consistency
 ![Usage Consistency](visualizations/bellabeat_usage_consistency.png)
-- **Finding**: X of users are daily users
+- **Finding**: Majority of the users use there device regularly
 - **Implication**: Focus on retention features
 
 ### 4. Hourly Activity Patterns
@@ -41,7 +41,7 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 
 ### Recommendations for Bellabeat
 1. **Target mid-week engagement** with Wednesday wellness challenges
-2. **Focus on [largest segment]** with tailored messaging
+2. **Focus on sedentary users** with tailored messaging
 3. **Leverage peak hours** (6-7 PM) for reminder notifications
 4. **Emphasize sleep tracking** as a key differentiator
 
@@ -51,7 +51,7 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 - **GitHub**: Portfolio presentation
 
 ### Files
-- `scripts/sql_queries.sql`: Complete analysis queries
-- `scripts/r_analysis.R`: Visualization code
+- [`scripts/sql_queries.sql`](scripts/sql_queries.sql): Complete analysis queries
+- [`scripts/r_analysis.R`](scripts/r_analysis.R) Visualization code
 - [`data/`](data/): Processed datasets
-- `visualizations/`: All charts and graphs
+- [`visualizations/`](visualizations/) All charts and graphs
