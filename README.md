@@ -20,19 +20,22 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 ### Key Insights
 
 #### 1. User Activity Segmentation
-![User Segmentation](visualizations/user_segmentation.png)
+![User Segmentation](visualizations/bellabeat_user_segmentation.png)
 - **Finding**: X users in [largest segment]
 - **Implication**: Target this segment for Bellabeat marketing
 
 #### 2. Weekly Activity Patterns  
-![Weekly Patterns](visualizations/weekly_patterns.png)
+![Weekly Patterns](visualizations/bellabeat_weekly_patterns.png)
 - **Finding**: Peak activity on Wednesdays
 - **Implication**: Ideal for mid-week wellness campaigns
 
 #### 3. Device Usage Consistency
-![Usage Consistency](visualizations/usage_consistency.png)
+![Usage Consistency](visualizations/bellabeat_usage_consistency.png)
 - **Finding**: X of users are daily users
 - **Implication**: Focus on retention features
+
+### 4. Hourly Activity Patterns
+!
 
 ### Recommendations for Bellabeat
 1. **Target mid-week engagement** with Wednesday wellness challenges
