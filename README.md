@@ -21,8 +21,8 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 
 #### 1. User Activity Segmentation
 ![User Segmentation](visualizations/bellabeat_user_segmentation.png)
-- **Finding**: X users in [largest segment]
-- **Implication**: Target this segment for Bellabeat marketing
+- **Finding**: The largest user segment are sedentary 
+- **Implication**: Marketing should target the everyday woman who wants to improve her wellness gradually
 
 #### 2. Weekly Activity Patterns  
 ![Weekly Patterns](visualizations/bellabeat_weekly_patterns.png)
@@ -35,7 +35,9 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 - **Implication**: Focus on retention features
 
 ### 4. Hourly Activity Patterns
-!
+![Hourly Activity](visualizations/bellabeat_hourly_activity)
+- **Finding**: Activity peaks around 6-7pm
+- **Implication**: Develop evening-focused wellness content
 
 ### Recommendations for Bellabeat
 1. **Target mid-week engagement** with Wednesday wellness challenges
