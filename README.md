@@ -48,5 +48,5 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 ### Files
 - `scripts/sql_queries.sql`: Complete analysis queries
 - `scripts/r_analysis.R`: Visualization code
-- `data/`: Processed datasets
+- [`data/`](data/): Processed datasets
 - `visualizations/`: All charts and graphs
