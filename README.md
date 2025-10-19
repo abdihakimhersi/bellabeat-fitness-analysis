@@ -35,7 +35,7 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 - **Implication**: Focus on retention features
 
 ### 4. Hourly Activity Patterns
-![Hourly Activity](visualizations/bellabeat_hourly_activity)
+![Hourly Activity](visualizations/bellabeat_hourly_activity.png)
 - **Finding**: Activity peaks around 6-7pm
 - **Implication**: Develop evening-focused wellness content
 
