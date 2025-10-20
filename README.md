@@ -40,7 +40,7 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 - **Implication**: Develop evening-focused wellness content
 
 ## 5. Dashboard
-![bellabeat Dashboard](visualization/bellabeat_dashboard.png)
+![Bellabeat Dashboard](visualizations/bellabeat_dashboard.png)
 
 ### Recommendations for Bellabeat
 1. **Target mid-week engagement** with Wednesday wellness challenges
