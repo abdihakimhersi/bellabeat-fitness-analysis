@@ -39,6 +39,9 @@ Analyze Fitbit smart device usage data to identify trends and provide marketing 
 - **Finding**: Activity peaks around 6-7pm
 - **Implication**: Develop evening-focused wellness content
 
+## 5. Dashboard
+![Bellabeat Dashboard](visualization/bellabeat_dashboard.png)
+
 ### Recommendations for Bellabeat
 1. **Target mid-week engagement** with Wednesday wellness challenges
 2. **Focus on sedentary users** with tailored messaging
